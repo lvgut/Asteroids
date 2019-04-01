@@ -6,4 +6,5 @@ approaching so that they do not hit earth. You have a limit of 5 lives, at which
 
 ## Visuals 
 ![](../assets/asteroids.gif)
+![](../assets/asteroids_screenshot.png)
 
